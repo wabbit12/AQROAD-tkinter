@@ -29,9 +29,15 @@ pip install -r requirements.txt
 
 
 ## Usage
-Run the application using Streamlit:
+Run the application using Python:
 ```bash
 python app.py
+```
+
+## If Error
+If getting error in ultralytics/models/best.pt:
+```bash
+git lfs install
 ```
 
 ## Model Training
